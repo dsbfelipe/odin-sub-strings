@@ -7,16 +7,6 @@
 
 This project is part of The Odin Project's Ruby course. In this assignment, I implemented a method to count occurrences of specified substrings within a given word or phrase. This project helped deepen my understanding of string manipulation, arrays, and hashes in Ruby.
 
-<details open>
-<summary>
- Screenshots
-</summary> <br />
-    
-<p align="center">
-    <img src="screenshots/screenshot.png"/>
-
-</details>
-
 ## 📝 Project Objective
 
 The goal was to create a method called substrings that takes a word and an array of valid substrings (dictionary) as arguments. The method returns a hash listing each substring found in the original string and the number of times it was found. This project enhanced my skills in string manipulation and algorithm development.
